@@ -1,1 +1,16 @@
-
+{    "templates": [ "Where is * located?",
+        "Do you know where * is located?",
+        "Can you please tell me where * is located?",
+        "Could you direct me to *?",
+        "How can I find *?",
+        "What is the address of *?",
+        "I am looking for *, where is it?",
+        "Can you help me find *?",
+        "Whereabouts is * situated?",
+        "Which area is * located in?" ],
+    "locations": { "University of Moratuwa": "Katubedda",
+        "Colombo University": "Cinnamon Gardens",
+        "Galle Face Beach": "Galle Face",
+        "Shangri-La Hotel": "Kollupitiya",
+        "University of Vavuniya": "Pambaimadu",
+        "Yalpanam University": "Thirunelvely" } }
