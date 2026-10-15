@@ -1,0 +1,16 @@
+-
+Q: Where is University of Moratuwa located?
+A: University of Moratuwa is located in Katubedda.
+-
+Q: Do you know where Colombo University is located?
+A: Colombo University is located in Cinnamon Gardens.
+-
+Q: Can you please tell me where Galle Face Beach is located?
+A: Galle Face Beach is located in Galle Face.
+-
+Q: Could you direct me to Shangri-La Hotel?
+A: Shangri-La Hotel is located in Kollupitiya.
+-
+Q: How can I find University of Vavuniya?
+A: University of Vavuniya is located in Pambaimadu.
+-
